@@ -3,10 +3,10 @@ print()
 print()
 print()
 def bhajan():
-    pass
+    print("Hello World")
 
 
-
+bhajan()
 print()
 print()
 print()
