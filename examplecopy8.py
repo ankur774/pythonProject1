@@ -1,4 +1,4 @@
-
+print("nnn")
 
 s = "aNKUR"
 a = 10
